@@ -1,0 +1,6 @@
+# NPM stuff
+node_modules/
+
+# IDEA stuff
+.idea/
+*.iml

@@ -1,0 +1,11 @@
+{
+    "name": "frontkit-font",
+    "version": "0.0.1",
+    "dependencies": {
+        "webhostinghub-glyphs": "~0.1.0"
+    },
+    "scripts": {
+        "start": "whhglyphs whhglyphs.config.json",
+        "build": "whhglyphs whhglyphs.config.json"
+    }
+}
