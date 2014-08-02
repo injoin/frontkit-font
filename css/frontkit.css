@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'frontkit';
-  src: url('../font/frontkit.eot?89618612');
-  src: url('../font/frontkit.eot?89618612#iefix') format('embedded-opentype'),
-       url('../font/frontkit.woff?89618612') format('woff'),
-       url('../font/frontkit.ttf?89618612') format('truetype'),
-       url('../font/frontkit.svg?89618612#frontkit') format('svg');
+  src: url('../font/frontkit.eot?95033');
+  src: url('../font/frontkit.eot?95033#iefix') format('embedded-opentype'),
+       url('../font/frontkit.woff?95033') format('woff'),
+       url('../font/frontkit.ttf?95033') format('truetype'),
+       url('../font/frontkit.svg?95033#frontkit') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'frontkit';
-    src: url('../font/frontkit.svg?89618612#frontkit') format('svg');
+    src: url('../font/frontkit.svg?95033#frontkit') format('svg');
   }
 }
 */
@@ -88,6 +88,7 @@
 .icon-scissors:before { content: '\e268'; } /* '' */
 .icon-tools:before { content: '\e2a5'; } /* '' */
 .icon-list-numeric:before { content: '\e2c1'; } /* '' */
+.icon-calendar:before { content: '\e2ce'; } /* '' */
 .icon-fontcase:before { content: '\e2e6'; } /* '' */
 .icon-gun:before { content: '\e2ef'; } /* '' */
 .icon-lens:before { content: '\e309'; } /* '' */
