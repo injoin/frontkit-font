@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'frontkit';
-	src:url('fonts/frontkit.eot?g8wzhe');
-	src:url('fonts/frontkit.eot?#iefixg8wzhe') format('embedded-opentype'),
-		url('fonts/frontkit.woff?g8wzhe') format('woff'),
-		url('fonts/frontkit.ttf?g8wzhe') format('truetype'),
-		url('fonts/frontkit.svg?g8wzhe#frontkit') format('svg');
+	src:url('fonts/frontkit.eot?-yeev6m');
+	src:url('fonts/frontkit.eot?#iefix-yeev6m') format('embedded-opentype'),
+		url('fonts/frontkit.woff?-yeev6m') format('woff'),
+		url('fonts/frontkit.ttf?-yeev6m') format('truetype'),
+		url('fonts/frontkit.svg?-yeev6m#frontkit') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -221,10 +221,10 @@
 .icon-redo:before {
 	content: "\e640";
 }
-.icon-forward:before {
+.icon-email-forward:before {
 	content: "\e641";
 }
-.icon-reply:before {
+.icon-email-reply:before {
 	content: "\e642";
 }
 .icon-comment:before {
@@ -488,7 +488,7 @@
 .icon-info-o:before {
 	content: "\e699";
 }
-.icon-info2:before {
+.icon-info:before {
 	content: "\e69a";
 }
 .icon-blocked:before {
@@ -539,13 +539,13 @@
 .icon-backward:before {
 	content: "\e6aa";
 }
-.icon-forward2:before {
+.icon-forward:before {
 	content: "\e6ab";
 }
-.icon-first:before {
+.icon-fast-backward:before {
 	content: "\e6ac";
 }
-.icon-last:before {
+.icon-fast-forward:before {
 	content: "\e6ad";
 }
 .icon-previous:before {
